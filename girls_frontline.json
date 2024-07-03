@@ -1,0 +1,571 @@
+{
+  "name": "少女前线",
+  //  "version": "1.2.0.5"
+  //  "source": "https://greasyfork.org/zh-CN/scripts/376589-nga-%E5%B0%91%E5%A5%B3%E5%89%8D%E7%BA%BF%E8%A1%A8%E6%83%85%E5%8C%85"
+  "groups": [
+    {
+      "author": "쮸운",
+      "name": "SOP2",
+      "data": [
+        {
+          "img": "./mon_201901/11/-klbw3Q5-gq1dKaT8S2s-2s.gif"
+        },
+        {
+          "img": "./mon_201901/22/-klbw3Q5-jq7cZtToS2s-2s.gif"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-4j3kK7T8S2s-2s.jpg"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-6fo2KdT8S2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-7ogmK4T8S2s-2s.jpg"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-5y0pKjToS2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-kcziK3T8S2s-2s.jpg"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-erjzK3T8S2s-2s.jpg"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-daxdKiToS2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-aam7KdT8S2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-7jg3K4T8S2s-2s.jpg"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-k393K4T8S2s-2s.jpg"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-fulsKfT8S2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-1g1KaT8S2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-5nn2K3T8S2s-2s.jpg"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-b8asKfT8S2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-hf97KbT8S2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-24c5KcT8S2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-daqcK4T8S2s-2s.jpg"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-j0p5KbT8S2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-3b6jKgT8S2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-8wxkKhT8S2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-4sedK2T8S2s-2s.jpg"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-aej0KeT8S2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-fz52KdT8S2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-oi5K8T8S2s-2s.jpg"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-97uKbT8S2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-bk5xKbT8S2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-h5jqKfT8S2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-1qhyKeT8S2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-d3drKjToS2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-ioolKaT8S2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-2w10KlToS2s-2s.jpg"
+        }
+      ]
+    },
+    {
+      "author": "祁连子(NGA ID：东方白野兔)",
+      "name": "年糕狗",
+      "data": [
+        {
+          "img": "./mon_201901/24/-klbw3Q5-i8mnKqToS2g-2s.gif"
+        },
+        {
+          "img": "./mon_201901/24/-klbw3Q5-hc3cK9T8S2g-2s.gif"
+        },
+        {
+          "img": "./mon_201901/24/-klbw3Q5-bnofKsToS2g-2s.gif"
+        },
+        {
+          "img": "./mon_201907/03/-bqqbQ5-6iwwK1gToS2g-2s.gif"
+        },
+        {
+          "img": "./mon_201901/24/-klbw3Q5-5tghKsToS2m-2s.gif"
+        },
+        {
+          "img": "./mon_201901/24/-klbw3Q5-ka7xKaT8S2g-2s.gif"
+        },
+        {
+          "img": "./mon_201901/24/-klbw3Q5-c43iK6T8S2g-2s.gif"
+        },
+        {
+          "img": "./mon_201901/24/-klbw3Q5-6jl8K8T8S2g-2s.gif"
+        },
+        {
+          "img": "./mon_201907/06/-bqqbQ5-8fgyK4T8S2g-2s.gif"
+        },
+        {
+          "img": "./mon_201907/06/-bqqbQ5-1v7iKgT8S2g-2s.gif"
+        },
+        {
+          "img": "./mon_201907/06/-bqqbQ5-ejyrK6T8S2g-2s.gif"
+        },
+        {
+          "img": "./mon_201907/06/-bqqbQ5-ka9qKfT8S2g-2s.gif"
+        },
+        {
+          "img": "./mon_201907/06/-bqqbQ5-4n1rKlToS2i-2s.gif"
+        }
+      ]
+    },
+    {
+      "author": "苏初雨",
+      "name": "少前官方",
+      "data": [
+        {
+          "img": "./mon_201901/11/-klbw3Q5-7nk8KmToS2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-dkj1KoToS2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/24/-klbw3Q5-1humKzToS2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-3yg3KlToS2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-jjdbKpToS2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-drqtKnToS2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-7vj9KpToS2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-1zvjKrToS2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-hmbxKoToS2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-bscbKrToS2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-jzojKnToS2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-dwiyKmToS2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-9sjhKnToS2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-9wszKmToS2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-329KmToS2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-fo16KqToS2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/24/-klbw3Q5-1cdaKwToS2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-269lKnToS2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-7xmgKlToS2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-hv11KlToS2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/24/-klbw3Q5-k09jK17ToS2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-4rgkKmToS2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-c4zuKnToS2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-65bfKoToS2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-3xchKqToS2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-fzpcKlToS2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-43h2KpToS2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/11/-klbw3Q5-jm7nKoToS2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/24/-klbw3Q5-dtfxK14ToS2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/24/-klbw3Q5-7nxaK12ToS2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/24/-klbw3Q5-gvf2K17ToS2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/24/-klbw3Q5-a6btK16ToS2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/24/-klbw3Q5-4eqkK11ToS2s-2s.png"
+        },
+        {
+          "img": "./mon_201901/24/-klbw3Q5-7aflKyToS2s-2s.png"
+        },
+        {
+          "img": "./mon_201904/14/-klbw3Q5-1brcK14ToS2s-2s.png"
+        },
+        {
+          "img": "./mon_201906/10/-klbw3Q5-hmxcK10ToS2s-2s.png"
+        },
+        {
+          "img": "./mon_201906/10/-klbw3Q5-azebK13ToS2s-2s.png"
+        },
+        {
+          "img": "./mon_201906/10/-klbw3Q5-4uq5K16ToS2s-2s.png"
+        },
+        {
+          "img": "./mon_201906/10/-klbw3Q5-ij1aK12ToS2s-2s.png"
+        },
+        {
+          "img": "./mon_201906/10/-klbw3Q5-bznyK14ToS2s-2s.png"
+        },
+        {
+          "img": "./mon_201906/10/-klbw3Q5-5mboK13ToS2s-2s.png"
+        }
+      ]
+    },
+    {
+      "author": "转自：Dcinside",
+      "name": "M4-GIF",
+      "data": [
+        {
+          "img": "./mon_201901/24/-klbw3Q5-8etpK1jToS2s-2s.gif"
+        },
+        {
+          "img": "./mon_201901/24/-klbw3Q5-2wtvZfToS2s-2s.gif"
+        },
+        {
+          "img": "./mon_201906/10/-klbw3Q5-g53kZdToS2s-2s.gif"
+        },
+        {
+          "img": "./mon_201901/24/-klbw3Q5-fhsK2eToS2s-2s.gif"
+        },
+        {
+          "img": "./mon_201906/10/-klbw3Q5-ctz7KrToS2s-2s.gif"
+        },
+        {
+          "img": "./mon_201901/24/-klbw3Q5-3douZfToS2s-2s.gif"
+        },
+        {
+          "img": "./mon_201901/24/-klbw3Q5-ftcuKhToS2s-2s.gif"
+        },
+        {
+          "img": "./mon_201901/24/-klbw3Q5-4zqfKxToS2s-2s.gif"
+        },
+        {
+          "img": "./mon_201901/24/-klbw3Q5-e4q5ZuToS2s-2s.gif"
+        },
+        {
+          "img": "./mon_201906/10/-klbw3Q5-dikdZ1aToS2s-2s.gif"
+        },
+        {
+          "img": "./mon_201906/10/-klbw3Q5-fdkpZrToS2s-2s.gif"
+        },
+        {
+          "img": "./mon_202002/29/-mpnxjQ5-jz8wZiToS2s-2s.gif"
+        },
+        {
+          "img": "./mon_202002/29/-mpnxjQ5-k8hZbToS2s-2s.gif"
+        },
+        {
+          "img": "./mon_202002/29/-mpnxjQ5-9jehKfT8S2s-2s.gif"
+        },
+        {
+          "img": "./mon_202002/29/-mpnxjQ5-3dqaKqToS2s-2s.gif"
+        },
+        {
+          "img": "./mon_202002/29/-mpnxjQ5-4tf8K2kToS2s-2s.gif"
+        },
+        {
+          "img": "./mon_202002/29/-mpnxjQ5-gwjlZzToS2s-2s.gif"
+        },
+        {
+          "img": "./mon_202002/29/-mpnxjQ5-gtyzK1fToS2s-2s.gif"
+        },
+        {
+          "img": "./mon_202003/02/-mpnxjQ5-8qscZfToS2s-2s.gif"
+        },
+        {
+          "img": "./mon_202003/02/-mpnxjQ5-kb1vZeToS2s-2s.gif"
+        },
+        {
+          "img": "./mon_202003/02/-mpnxjQ5-9350KbT8S2s-2s.gif"
+        },
+        {
+          "img": "./mon_202003/02/-mpnxjQ5-ktc4KaT8S2s-2s.gif"
+        },
+        {
+          "img": "./mon_202003/02/-mpnxjQ5-4qysK9T8S2s-2s.gif"
+        }
+      ]
+    },
+    {
+      "author": "泡面番",
+      "name": "人形小剧场",
+      "data": [
+        {
+          "img": "./mon_202003/18/-mpnxjQ5-chehKlToS2s-2s.png",
+          "name": "比心"
+        },
+        {
+          "img": "./mon_202003/18/-mpnxjQ5-62mpKkToS2s-2s.png",
+          "name": "吃瓜"
+        },
+        {
+          "img": "./mon_202003/18/-mpnxjQ5-fdagKmToS2s-2s.png",
+          "name": "打call"
+        },
+        {
+          "img": "./mon_202003/18/-mpnxjQ5-1vlKoToS2s-2s.png",
+          "name": "冲鸭"
+        },
+        {
+          "img": "./mon_202003/18/-mpnxjQ5-97v1KiToS2s-2s.png",
+          "name": "呆"
+        },
+        {
+          "img": "./mon_202003/18/-mpnxjQ5-2p7aKlToS2s-2s.png",
+          "name": "得意"
+        },
+        {
+          "img": "./mon_202003/18/-mpnxjQ5-i5w7KlToS2s-2s.png",
+          "name": "干杯"
+        },
+        {
+          "img": "./mon_202003/18/-mpnxjQ5-b10jKkToS2s-2s.png",
+          "name": "害羞"
+        },
+        {
+          "img": "./mon_202003/18/-mpnxjQ5-4r0wKlToS2s-2s.png",
+          "name": "黑化"
+        },
+        {
+          "img": "./mon_202003/18/-mpnxjQ5-jnzxKmToS2s-2s.png",
+          "name": "精神抖擞"
+        },
+        {
+          "img": "./mon_202003/18/-mpnxjQ5-deh7KmToS2s-2s.png",
+          "name": "哭"
+        },
+        {
+          "img": "./mon_202003/18/-mpnxjQ5-7a7cKkToS2s-2s.png",
+          "name": "卖萌"
+        },
+        {
+          "img": "./mon_202003/18/-mpnxjQ5-zthKoToS2s-2s.png",
+          "name": "小钱钱"
+        },
+        {
+          "img": "./mon_202003/18/-mpnxjQ5-gclbKnToS2s-2s.png",
+          "name": "色"
+        },
+        {
+          "img": "./mon_202003/18/-mpnxjQ5-10fjKkToS2s-2s.png",
+          "name": "认真"
+        },
+        {
+          "img": "./mon_202003/18/-mpnxjQ5-9xtdKmToS2s-2s.png",
+          "name": "睡觉"
+        },
+        {
+          "img": "./mon_202003/18/-mpnxjQ5-3wxwKjToS2s-2s.png",
+          "name": "晚安"
+        },
+        {
+          "img": "./mon_202003/18/-mpnxjQ5-jbkiKlToS2s-2s.png",
+          "name": "无语"
+        },
+        {
+          "img": "./mon_202003/18/-mpnxjQ5-d7ljKmToS2s-2s.png",
+          "name": "嫌弃"
+        },
+        {
+          "img": "./mon_202003/18/-mpnxjQ5-77noKkToS2s-2s.png",
+          "name": "小公主"
+        },
+        {
+          "img": "./mon_202003/18/-mpnxjQ5-flpbKmToS2s-2s.png",
+          "name": "耶"
+        },
+        {
+          "img": "./mon_202003/18/-mpnxjQ5-9opzKkToS2s-2s.png",
+          "name": "疑惑"
+        },
+        {
+          "img": "./mon_202003/18/-mpnxjQ5-3retKlToS2s-2s.png",
+          "name": "震惊"
+        },
+        {
+          "img": "./mon_202003/18/-mpnxjQ5-j2igKlToS2s-2s.png",
+          "name": "醉"
+        },
+        {
+          "img": "./mon_202003/20/-mpnxjQ5-4nq3KnToS2s-2s.png",
+          "name": "期待"
+        },
+        {
+          "img": "./mon_202003/20/-mpnxjQ5-htboKnToS2s-2s.png",
+          "name": "心虚"
+        },
+        {
+          "img": "./mon_202003/20/-mpnxjQ5-bsnpKiToS2s-2s.png",
+          "name": "叶！"
+        }
+      ]
+    },
+    {
+      "author": "散爆",
+      "name": "少前新UI",
+      "data": [
+        {
+          "img": "./mon_202106/23/-mpnxjQ2o-cct8KtToS2s-2s.png",
+          "name": "S"
+        },
+        {
+          "img": "./mon_202106/23/-mpnxjQ2o-ctk7KtToS2s-2s.png",
+          "name": "A"
+        },
+        {
+          "img": "./mon_202106/23/-mpnxjQ2o-eljiKuToS2s-2s.png",
+          "name": "B"
+        },
+        {
+          "img": "./mon_202106/23/-mpnxjQ2o-6kkpKtToS2s-2s.png",
+          "name": "C"
+        },
+        {
+          "img": "./mon_202106/23/-mpnxjQ2o-8ecqKvToS2s-2s.png",
+          "name": "D"
+        }
+      ]
+    },
+    {
+      "author": "散爆",
+      "name": "少前罗森",
+      "data": [
+        {
+          "img": "./mon_202104/26/-mpnxjQ5qhh-imuhKqToS3c-3c.png",
+          "name": "这样啊"
+        },
+        {
+          "img": "./mon_202104/26/-mpnxjQ5qhi-6hsbKpToS3c-3c.png",
+          "name": "喜欢"
+        },
+        {
+          "img": "./mon_202104/26/-mpnxjQ4ydx-5redKrToS3c-3c.png",
+          "name": "对不住"
+        },
+        {
+          "img": "./mon_202104/26/-mpnxjQ5qhj-4lv1KqToS3c-3c.png",
+          "name": "那我呢"
+        },
+        {
+          "img": "./mon_202104/26/-mpnxjQ5qhl-g2rrKnToS3c-3c.png",
+          "name": "好"
+        },
+        {
+          "img": "./mon_202104/26/-mpnxjQ4ydx-21j5KlToS3c-3c.png",
+          "name": "啊这"
+        },
+        {
+          "img": "./mon_202104/26/-mpnxjQ5qhj-dr7sKpToS3c-3c.png",
+          "name": "累了"
+        },
+        {
+          "img": "./mon_202104/26/-mpnxjQ5qhk-29g5KtToS3c-3c.png",
+          "name": "可怜兮兮"
+        },
+        {
+          "img": "./mon_202104/26/-mpnxjQ5qhi-gqnaKnToS3c-3c.png",
+          "name": "气势汹汹"
+        },
+        {
+          "img": "./mon_202104/26/-mpnxjQ5qhk-b9jwKoToS3c-3c.png",
+          "name": "警觉"
+        },
+        {
+          "img": "./mon_202104/26/-mpnxjQ4ydx-axmxKvToS3c-3c.png",
+          "name": "啊啊啊"
+        },
+        {
+          "img": "./mon_202104/26/-mpnxjQ4ydx-efr3KsToS3c-3c.png",
+          "name": "不挺好"
+        },
+        {
+          "img": "./mon_202104/26/-mpnxjQ4ydx-e4kfKpToS3c-3c.png",
+          "name": "哈哈哈"
+        },
+        {
+          "img": "./mon_202104/26/-mpnxjQ5qhl-7jj5KrToS3c-3c.png",
+          "name": "喝水冷静"
+        },
+        {
+          "img": "./mon_202104/26/-mpnxjQ4ydx-42qnKqToS3c-3c.png",
+          "name": "还有谁"
+        },
+        {
+          "img": "./mon_202104/26/-mpnxjQ5qhk-kcjfKmToS3c-3c.png",
+          "name": "欢迎"
+        }
+      ]
+    }
+  ]
+}

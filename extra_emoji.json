@@ -1,0 +1,104 @@
+{
+    "name": "附加表情",
+    "groups": [
+        {
+            "author": "@JoSnake1903,@格拉摩根猎魔人,anonymous",
+            "name": "16Lab表情",
+            "data": [
+                {
+                    "img": "./mon_202404/27/-bqqbQ19e-z1zKvToS3c-3c.png",
+                    "name": "扇子笑"
+                },
+                {
+                    "img": "./mon_202404/27/-bqqbQ19e-92jzKuToS3c-3c.png",
+                    "name": "扇子笑"
+                },
+                {
+                    "img": "./mon_202404/27/-bqqbQ19e-h6lpKzToS3c-3c.png",
+                    "name": "扇子笑"
+                },
+                {
+                    "img": "./mon_202404/27/-bqqbQ19e-9d8eKvToS3c-3c.png",
+                    "name": "扇子笑"
+                },
+                {
+                    "img": "./mon_202404/28/-bqqbQ19e-klulKvToS3y-3c.png",
+                    "name": "扇子笑"
+                },
+                {
+                    "img": "./mon_202405/28/-bqqbQ8zfb-f6xsXaZ2wToS3c-34.gif",
+                    "name": "指指点点"
+                },
+                {
+                    "img": "./mon_202406/05/-bqqbQpmv4-8skfXdZ3nToS3c-3e.gif",
+                    "name": "指指点点"
+                },
+                {
+                    "img": "./mon_202405/18/-bqqbQ8z9c-31vpZ22ToS3c-3c.gif",
+                    "name": "挥手"
+                },
+                {
+                    "img": "./mon_202406/20/-bqqbQ48ie-fplmXdZ3iToS3c-3c.gif",
+                    "name": "挥手"
+                },
+                {
+                    "img": "./mon_202405/18/-bqqbQk7c-jz4iZ12ToS3c-3c.gif",
+                    "name": "💪"
+                },
+                {
+                    "img": "./mon_202406/20/-bqqbQn1gg-e9utZ2nToS3c-3c.gif",
+                    "name": "💪"
+                },
+                {
+                    "img": "./mon_202405/18/-bqqbQ8z9c-4h4iZ1aToS3c-36.gif",
+                    "name": "😰"
+                }
+            ]
+        },
+        {
+            "author": "@-薯子Imoko-",
+            "name": "薯片",
+            "data": [
+                {
+                    "img": "./mon_202406/01/-bqqbQ19h-boa1KkToS3c-3c.png"
+                },
+                {
+                    "img": "./mon_202406/01/-bqqbQ19h-iwp6K1oT1kS72-46.png"
+                },
+                {
+                    "img": "./mon_202406/01/-bqqbQ19h-5di2KwToS3w-46.png"
+                },
+                {
+                    "img": "./mon_202406/01/-bqqbQ19h-ds16KrToS3c-4y.png"
+                },
+                {
+                    "img": "./mon_202406/01/-bqqbQ19h-l0e3KbT8S1u-3c.png"
+                },
+                {
+                    "img": "./mon_202406/01/-bqqbQ19h-79k2KjToS3c-2v.png"
+                },
+                {
+                    "img": "./mon_202406/01/-bqqbQ19h-ehalKpToS3c-3c.png"
+                },
+                {
+                    "img": "./mon_202406/01/-bqqbQ19h-1343KtToS5m-3c.png"
+                },
+                {
+                    "img": "./mon_202406/01/-bqqbQ19h-8licKmToS3c-3c.png"
+                },
+                {
+                    "img": "./mon_202406/01/-bqqbQ19h-fhegKoToS3c-3c.png"
+                },
+                {
+                    "img": "./mon_202406/01/-bqqbQ19h-28w5KrToS3c-3c.png"
+                },
+                {
+                    "img": "./mon_202406/01/-bqqbQ19h-9braKiToS3c-3c.png"
+                },
+                {
+                    "img": "./mon_202406/01/-bqqbQ19h-g2b1K1nT1kSd1-3c.png"
+                }
+            ]
+        }
+    ]
+}
